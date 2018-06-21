@@ -1,0 +1,111 @@
+﻿@model InventoryManagement.Models.Facility
+
+<table class="table table-striped table-light">
+    <tr>
+        <th>Resource</th>
+
+        <th>Quantity</th>
+
+        <th>Size</th>
+
+        <th>Description</th>
+
+        <th>Color</th>
+
+        <th>Changed</th>
+
+        <th>PreviousValue</th>
+
+        <th></th>
+
+        <th></th>
+        <th></th>
+    </tr>
+
+    @foreach (var res in Model.Resources)
+    {
+
+        if (res.Changed == true)
+        {
+            <tr class="table-danger">
+                <td>@res.ResourceName </td>
+
+                <td>@res.Quantity</td>
+
+                <td>@res.Size</td>
+
+                <td>@res.Description</td>
+
+                <td>@res.Color</td>
+
+                <td>@res.Changed</td>
+
+                <td>
+                    @{
+                        string[] parts = res.PreviousValue.Split(',');
+                        if (parts.Length >= 1)
+                        {
+                            for (int i = 0; i < parts.Length-1; i++)
+                            {
+                                @parts[i]
+                            <br>
+                            }
+                        }
+                        
+                    }
+
+                </td>
+
+                <td>
+                    <p>Value Changed!</p>
+                </td>
+
+                <td>
+                    @Html.ActionLink("Acknowledge", "Acknowledge", "Report", new {resourceId = res.ResourceId}, null)
+                </td>
+
+                <td></td>
+            </tr>
+        }
+        else
+        {
+            <tr class="table-success">
+                <td> @res.ResourceName</td>
+
+                <td> @res.Quantity</td>
+
+                <td>@res.Size </td>
+
+                <td> @res.Description</td>
+
+                <td> @res.Color</td>
+
+                <td> @res.Changed </td>
+
+                <td>
+                    @{
+                        string[] parts = res.PreviousValue.Split(',');
+                        for (int i = 0; i < parts.Length; i++)
+                        {
+                            @parts[i]
+                            <br>
+                        }
+                    }
+
+                </td>
+
+                <td>
+                    <p>No Changes</p>
+                </td>
+
+                <td></td>
+
+                <td></td>
+                
+
+            </tr>
+
+        }
+    }
+    </table>
+

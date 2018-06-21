@@ -1,0 +1,80 @@
+﻿@model InventoryManagement.Models.Facility
+
+<table class="table">
+    <tr>
+        <th>Resource</th>
+
+        <th>Quantity</th>
+
+        <th>Size</th>
+
+        <th>Description</th>
+
+        <th>Color</th>
+
+        <th>Changed</th>
+
+        <th>PreviousValue</th>
+
+        <th></th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var res in Model.Resources)
+    {
+    <tr class="table-danger">
+        @if (res.Changed == true)
+         {
+            <td>@res.ResourceName </td>
+
+            <td>@res.Quantity</td>
+
+            <td>@res.Size</td>
+
+            <td>@res.Description</td>
+
+            <td>@res.Color</td>
+
+            <td>@res.Changed</td>
+
+            <td>@res.PreviousValue </td>
+
+            <td>
+                <p>Value Changed!</p>
+            </td>
+
+            <td>
+                <button type="button" class="btn btn-danger">Acknowledge</button>
+            </td>
+        }
+        else
+        {
+            <td> @res.ResourceName</td>
+
+            <td> @res.Quantity</td>
+
+            <td>@res.Size </td>
+
+            <td> @res.Description</td>
+
+            <td> @res.Color</td>
+
+            <td> @res.Changed </td>
+
+            <td> @res.PreviousValue </td>
+
+            <td>
+                <p>No Changes</p>
+            </td>
+
+            <td></td>
+
+            <td></td>
+        }
+
+    </tr>
+
+    }
+</table>
+

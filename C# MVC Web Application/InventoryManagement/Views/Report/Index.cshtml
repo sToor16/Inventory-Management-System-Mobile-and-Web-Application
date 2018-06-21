@@ -1,0 +1,30 @@
+﻿@model InventoryManagement.Models.ReportViewModel
+@{
+    ViewBag.Title = "Report";
+}
+@using InventoryManagement.Models;
+<h2>Report</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="form-horizontal">
+        <div class="form-group">
+            @Html.LabelFor(model => model.FacilityName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("FacilityName", null, "Select a Facility", htmlAttributes: new { @id = "FacilityName",@class = "form-control" })
+                @Html.ValidationMessageFor(model => model.FacilityName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Get Report" class="btn btn-info" />
+            </div>
+        </div>
+    </div>
+}
+@if (ViewBag.id != null)
+{
+    Facility facility = ViewBag.facilityResources;
+    @Html.Partial("_RelatedResources", facility);
+}

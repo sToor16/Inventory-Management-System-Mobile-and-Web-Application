@@ -1,0 +1,135 @@
+﻿@model InventoryManagement.Models.Employee
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+<div class="form-horizontal">
+    <h4>Employee</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.Id)
+    <div class="form-group">
+        @Html.LabelFor(model => model.UserName, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.FirstName, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.LastName, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+            <div class="form-group">
+                <label class="control-label col-md-2">Facilities Assigned</label>
+                <div class="col-md-offset-2 col-md-10">
+                    <table>
+                        <tr>
+                        @{
+                            int cnt = 0;
+                            List<InventoryManagement.Models.DropDownViewModel> facilities = ViewBag.Facilities;
+
+                            foreach (var facility in facilities)
+                            {
+                                if (cnt++ % 5 == 0)
+                                {
+                                    @:</tr><tr>
+                                }
+                                @:<td>
+                                <input type="checkbox"
+                                       name="selectedFacilities"  id="selectedFacilities_@cnt"
+                                       value="@facility.Id"
+                                       @{
+                                           if (Model.IsAdmin)
+                                           {
+                                               @:checked
+                                           }
+                                       else{
+                                        @Html.Raw(facility.Selected ? "checked=\"checked\"" : "")
+                                       }
+                                       }
+                                       />
+                                      
+                                @facility.Name
+                                @:</td>
+                            }
+                            @:</tr>
+                        }
+                    </table>
+                </div>
+            </div>
+    
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.IsAdmin, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            <div class="checkbox">
+                @Html.EditorFor(model => model.IsAdmin)
+                @Html.ValidationMessageFor(model => model.IsAdmin, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Save" class="btn btn-success" />
+            @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-info" })
+        </div>
+    </div>
+</div>
+}
+
+<script>
+    var checkbox = document.querySelector("input[name=IsAdmin]");
+    checkbox.addEventListener( 'change', function() {
+        if (this.checked) {
+            $("input[id^=selectedFacilities]").each(function() {
+                $(this).prop('checked', true);
+            });
+        } else {
+            $("input[id^=selectedFacilities]").each(function () {
+                $(this).prop('checked', false);
+            });
+        }
+    });
+</script>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

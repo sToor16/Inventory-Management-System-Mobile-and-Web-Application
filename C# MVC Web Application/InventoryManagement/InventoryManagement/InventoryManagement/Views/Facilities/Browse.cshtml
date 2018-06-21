@@ -1,0 +1,52 @@
+﻿@model InventoryManagement.Models.Facility
+@{
+    ViewBag.Title = "Browse";
+}
+
+<h2>Browse</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            Resource
+        </th>
+        <th>
+            Quantity
+        </th>
+        <th>
+            Size
+        </th>
+        <th>
+            Description
+        </th>
+        <th>
+            Color
+        </th>
+    </tr>
+
+    @foreach (var res in Model.Resources)
+    {
+    <tr>
+        <td>
+            @res.ResourceName
+        </td>
+        <td>
+            @res.Quantity
+        </td>
+        <td>
+            @res.Size
+        </td>
+        <td>
+            @res.Description
+        </td>
+        <td>
+            @res.Color
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "EditFacilityResource", "Facilities", new { id = res.ResourceId }, null)
+        </td>
+    </tr>
+
+    }
+</table>
+

@@ -1,0 +1,21 @@
+﻿@using Microsoft.AspNet.Identity
+@if (Session["EmployeeId"] != null)
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+    @Html.AntiForgeryToken()
+
+    <ul class="nav navbar-nav navbar-right mr-auto">
+        <li >
+            @Html.ActionLink("Hello " + Session["EmployeeEmail"] + "", "EditLoggedIn", "Employees", null, new { @class = "btn btn-success" })
+        </li>
+        <li ><a class="btn btn-danger" href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
+    </ul>
+    }
+}
+else
+{
+    <ul >
+        @Html.ActionLink("Log in", "Login", "Account", null, new { @class = "btn btn-success" })
+    </ul>
+}

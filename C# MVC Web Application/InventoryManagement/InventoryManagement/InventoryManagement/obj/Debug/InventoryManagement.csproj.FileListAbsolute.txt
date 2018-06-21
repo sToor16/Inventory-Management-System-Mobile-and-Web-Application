@@ -1,0 +1,561 @@
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\ApplicationInsights.config
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\InventoryManagement.dll.config
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\InventoryManagement.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\InventoryManagement.pdb
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Antlr3.Runtime.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\EntityFramework.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.AI.Web.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Newtonsoft.Json.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Owin.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\System.Web.Helpers.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\System.Web.Mvc.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\System.Web.Optimization.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\System.Web.Razor.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\WebGrease.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\System.Web.Helpers.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\System.Web.Mvc.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\System.Web.Optimization.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\System.Web.Razor.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Antlr3.Runtime.pdb
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Newtonsoft.Json.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\EntityFramework.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\bin\Microsoft.AI.Web.xml
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csprojResolveAssemblyReference.cache
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.dll
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.pdb
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.First.resources
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.GenerateResource.Cache
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.Email.resources
+C:\Users\Dhruvi Vyas\source\repos\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.Mapping.resources
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\ApplicationInsights.config
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\InventoryManagement.dll.config
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\InventoryManagement.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\InventoryManagement.pdb
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Antlr3.Runtime.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\EntityFramework.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.Web.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Newtonsoft.Json.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Owin.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Helpers.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Mvc.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Optimization.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Razor.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\WebGrease.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Helpers.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Mvc.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Optimization.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Razor.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Antlr3.Runtime.pdb
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Newtonsoft.Json.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\EntityFramework.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.Web.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csprojResolveAssemblyReference.cache
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.First.resources
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.Email.resources
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.Mapping.resources
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.GenerateResource.Cache
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.pdb
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.activeinactive.resources
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\ApplicationInsights.config
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\InventoryManagement.dll.config
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\InventoryManagement.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\InventoryManagement.pdb
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Antlr3.Runtime.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\EntityFramework.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.Web.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Newtonsoft.Json.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Owin.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Helpers.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Mvc.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Optimization.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Razor.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\WebGrease.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Helpers.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Mvc.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Optimization.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Razor.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Antlr3.Runtime.pdb
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Newtonsoft.Json.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\EntityFramework.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.Web.xml
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csprojResolveAssemblyReference.cache
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.First.resources
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.Email.resources
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.Mapping.resources
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.activeinactive.resources
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.GenerateResource.Cache
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.dll
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.pdb
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.RedcolorandPreviousValues.resources
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.defaultvaluetrueforbooleancheck.resources
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.updatingisactivewithdefaultvalue.resources
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.correctingpreviousupdate.resources
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.updattingregexandassiginingintitialpreviousvalueas0.resources
+C:\Users\Dhruvi Vyas\Desktop\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.changingquantitytoint.resources
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\ApplicationInsights.config
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\InventoryManagement.dll.config
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\InventoryManagement.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\InventoryManagement.pdb
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Antlr3.Runtime.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\EntityFramework.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.Web.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Newtonsoft.Json.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Owin.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Helpers.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Mvc.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Optimization.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Razor.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\WebGrease.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Helpers.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Mvc.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Optimization.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Razor.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Antlr3.Runtime.pdb
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Newtonsoft.Json.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\EntityFramework.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.Web.xml
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csprojResolveAssemblyReference.cache
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.First.resources
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.Email.resources
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.Mapping.resources
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.activeinactive.resources
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.RedcolorandPreviousValues.resources
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.defaultvaluetrueforbooleancheck.resources
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.updatingisactivewithdefaultvalue.resources
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.correctingpreviousupdate.resources
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.updattingregexandassiginingintitialpreviousvalueas0.resources
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.changingquantitytoint.resources
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.GenerateResource.Cache
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.dll
+C:\Users\Shashank\Desktop\speed\Copy by toor (2)\Copy by toor\Copy by toor\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.pdb
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\ApplicationInsights.config
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\InventoryManagement.dll.config
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\InventoryManagement.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\InventoryManagement.pdb
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Antlr3.Runtime.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\EntityFramework.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.Web.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.ApplicationInsights.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Newtonsoft.Json.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Owin.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Helpers.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Mvc.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Optimization.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Razor.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\WebGrease.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Helpers.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Mvc.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Optimization.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.Razor.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Antlr3.Runtime.pdb
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Newtonsoft.Json.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\EntityFramework.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.ApplicationInsights.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\bin\Microsoft.AI.Web.xml
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csprojResolveAssemblyReference.cache
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.First.resources
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.Email.resources
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.Mapping.resources
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.activeinactive.resources
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.RedcolorandPreviousValues.resources
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.defaultvaluetrueforbooleancheck.resources
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.updatingisactivewithdefaultvalue.resources
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.correctingpreviousupdate.resources
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.updattingregexandassiginingintitialpreviousvalueas0.resources
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.changingquantitytoint.resources
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.GenerateResource.Cache
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.dll
+C:\Users\imroy\Desktop\InventoryManagement\edit by toor\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.pdb
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\ApplicationInsights.config
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\InventoryManagement.dll.config
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\InventoryManagement.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\InventoryManagement.pdb
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Antlr3.Runtime.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\EntityFramework.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AI.Web.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.ApplicationInsights.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Newtonsoft.Json.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Owin.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.Helpers.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.Mvc.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.Optimization.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.Razor.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\WebGrease.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.Helpers.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.Mvc.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.Optimization.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.Razor.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Antlr3.Runtime.pdb
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Newtonsoft.Json.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\EntityFramework.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.ApplicationInsights.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AI.Web.xml
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csprojResolveAssemblyReference.cache
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.First.resources
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.Email.resources
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.Mapping.resources
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.activeinactive.resources
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.RedcolorandPreviousValues.resources
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.defaultvaluetrueforbooleancheck.resources
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.updatingisactivewithdefaultvalue.resources
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.correctingpreviousupdate.resources
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.updattingregexandassiginingintitialpreviousvalueas0.resources
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.changingquantitytoint.resources
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.GenerateResource.Cache
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.dll
+C:\Users\imroy\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.pdb
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\ApplicationInsights.config
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\InventoryManagement.dll.config
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\InventoryManagement.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\InventoryManagement.pdb
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Antlr3.Runtime.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\EntityFramework.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AI.Web.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Newtonsoft.Json.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Owin.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.Helpers.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.Mvc.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.Optimization.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.Razor.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\WebGrease.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.Helpers.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.Mvc.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.Optimization.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.Razor.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Antlr3.Runtime.pdb
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Newtonsoft.Json.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\EntityFramework.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\bin\Microsoft.AI.Web.xml
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csprojResolveAssemblyReference.cache
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.First.resources
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.Email.resources
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.Mapping.resources
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.activeinactive.resources
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.RedcolorandPreviousValues.resources
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.defaultvaluetrueforbooleancheck.resources
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.updatingisactivewithdefaultvalue.resources
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.correctingpreviousupdate.resources
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.updattingregexandassiginingintitialpreviousvalueas0.resources
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Migrations.Inventory.changingquantitytoint.resources
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.GenerateResource.Cache
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.dll
+C:\Users\Dhruvi Vyas\Desktop\InventoryManagement\InventoryManagement\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.pdb

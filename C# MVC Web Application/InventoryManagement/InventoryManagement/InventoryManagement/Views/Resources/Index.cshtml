@@ -1,0 +1,69 @@
+﻿@model IEnumerable<InventoryManagement.Models.Resource>
+
+@{
+    ViewBag.Title = "Resources";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ResourceName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Facility.FacilityName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Size)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Color)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Changed)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ResourceName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Facility.FacilityName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Quantity)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Size)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Color)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Changed)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.ResourceId }) |
+            @Html.ActionLink("Details", "Details", new { id = item.ResourceId }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.ResourceId })
+        </td>
+    </tr>
+}
+
+</table>
